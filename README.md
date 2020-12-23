@@ -13,4 +13,5 @@ The initial Home screen to take the no of disks from the user.
 
 The animated solution for the n number of disks selected by the user
 
-![Tower Of Hanoi](https://user-images.githubusercontent.com/49206555/102958994-484b1d00-4504-11eb-989d-89828cb9de69.mp4)
+![Tower Of Hanoi](https://user-images.githubusercontent.com/49206555/102959425-7da43a80-4505-11eb-82f0-cf565808eec6.gif)
+
