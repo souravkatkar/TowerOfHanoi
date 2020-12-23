@@ -15,3 +15,8 @@ The animated solution for the n number of disks selected by the user
 
 ![Tower Of Hanoi](https://user-images.githubusercontent.com/49206555/102959425-7da43a80-4505-11eb-82f0-cf565808eec6.gif)
 
+## Libraries Used
+* Java Swing 
+* Java AWT 
+  * Event
+  * Buffered Image
