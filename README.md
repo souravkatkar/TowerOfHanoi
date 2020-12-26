@@ -1,4 +1,9 @@
 # TowerOfHanoi
+![GitHub](https://img.shields.io/github/license/souravkatkar/TowerOfHanoi)
+![GitHub repo size](https://img.shields.io/github/repo-size/souravkatkar/TowerOfHanoi)
+![GitHub top language](https://img.shields.io/github/languages/top/souravkatkar/TowerOfHanoi)
+
+## Introduction
 This project is a GUI solution for Tower Of Hanoi.
 This project uses Swing Library and Buffered Image module from AWT library.
 This project has several classes each employing a different strategy for solving the Tower Of Hanoi problem. 
